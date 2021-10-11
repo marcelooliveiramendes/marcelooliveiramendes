@@ -7,7 +7,7 @@
         <p>Em 2019, eu entrei em uma escola técnica e conheci a programação. Foi amor à primeira vista...</p> 
         <p> Atualmente sou formado pelo curso de Desenvolvimento de Sistemas e <br>estou cursando meu Ensino Médio integrado ao Técnico de Informática para Web.</p><br/>
         <p><strong>💼Skills:</strong> HTML, CSS, JavaScript, BootStrap, Jquery e Inglês Avançado</p>
-        <p><strong>📚Aprendendo:</strong> React Native e Node.js</p>
+        <p><strong>📚Aprendendo:</strong> React Native</p>
 </div>
 <br/>
 <div align="center">
