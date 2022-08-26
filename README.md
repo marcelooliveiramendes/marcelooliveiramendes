@@ -5,7 +5,7 @@
         <p>Eu sou o Marcelo!</p>
         <p>Sou um <strong>Programador Front-End Junior</strong> tentando ingressar no mundo da tecnologia!</p>
         <p>Em 2019, eu entrei em uma escola técnica e conheci a programação. Foi amor à primeira vista...</p> 
-        <p> Atualmente sou formado pelo curso de Desenvolvimento de Sistemas e <br>estou cursando meu Ensino Médio integrado ao Técnico de Informática para Web.</p><br/>
+        <p> Atualmente sou formado pelo curso de Desenvolvimento de Sistemas e <br>Ensino Médio integrado ao Técnico de Informática para Web.</p><br/>
         <p><strong>💼Skills:</strong> HTML, CSS, JavaScript, BootStrap, Jquery, React.JS e Inglês Avançado</p>
         <p><strong>📚Aprendendo:</strong> Next.JS</p>
 </div>
