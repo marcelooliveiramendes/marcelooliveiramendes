@@ -20,13 +20,20 @@
 </div>
 <div align="center">
         <h1>Linguagens e Ferramentas</h1>
-        https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-        <img src="https://user-images.githubusercontent.com/48383295/129463438-ab8050f3-3a97-47cb-9f8b-c791b821446f.png" width="40">
-        <img src="https://user-images.githubusercontent.com/48383295/129463435-f31be9c7-d4b1-4bf9-9d92-a3e15f6c0a99.png" width="40">
-        <img src="https://user-images.githubusercontent.com/48383295/129463439-cb466b04-fe98-4519-a353-0f5d38f4118f.png" width="40">
-        <img src="https://user-images.githubusercontent.com/48383295/129463434-0bf3318a-9912-4b37-94a1-5ebc4467ec7e.png" width="40">
-        <img src="https://user-images.githubusercontent.com/48383295/129463437-3f6e3e01-71a0-4b2a-a69d-1376713ef3b9.png" width="40">
-        <img src="https://user-images.githubusercontent.com/48383295/129463440-dfe1d6c1-99dc-4b1e-8b15-1f0b5f2ace84.png" width="40">
+        
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" >
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
+ 
 </div><br />
 <div align="center">
         <h1>GitHub Status</h1><br />
