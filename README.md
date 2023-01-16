@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
         <h1>Olá! Seja bem-vindo(a)!</h1>
         <img src="https://user-images.githubusercontent.com/48383295/129462418-d43e34bb-5822-4819-8f83-c9172844e227.png" width="500px">
         <p>Eu sou o Marcelo!</p>
