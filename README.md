@@ -1,20 +1,11 @@
 
 <div>
         <h1>Olá! Eu sou o Marcelo!</h1>
-        
         <p>Seja bem-vindo(a) ao meu perfil!</p>
         <p>Sou o Marcelo Oliveira, tenho 19 anos e sou programador full stack.</p>
 </div>
 <br/>
-<div align="center">
-        <p>
-          <strong>Contate-me: </strong><br />
-          <a href="https://www.linkedin.com/in/marcelo-oliveira-mendes/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/48383295/129463275-de93d913-1ffa-4b64-be1c-430a87315a33.png" alt="marcelo-linkedin" width="100px">
-          </a>
-        </p>
-</div>
-<div align="center">
+<div>
         <h1>Linguagens e Ferramentas</h1>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,13 +22,20 @@
  
 </div><br />
 <div align="center">
+        <p>
+          <strong>Contate-me: </strong><br />
+          <a href="https://www.linkedin.com/in/marcelo-oliveira-mendes/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/48383295/129463275-de93d913-1ffa-4b64-be1c-430a87315a33.png" alt="marcelo-linkedin" width="100px">
+          </a>
+        </p>
+</div>
+
+<div align="center">
         <h1>GitHub Status</h1><br />
         <p>
         <img src="https://github-readme-stats.vercel.app/api?username=marcelooliveiramendes&show_icons=true&theme=tokyonight"><br /><br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooliveiramendes&layout=demo">  
         </p>
-
-  
 
 </div>
 
