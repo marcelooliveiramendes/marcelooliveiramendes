@@ -1,13 +1,9 @@
 
 <div>
-        <h1>Olá! Seja bem-vindo(a)!</h1>
-        <img src="https://user-images.githubusercontent.com/48383295/129462418-d43e34bb-5822-4819-8f83-c9172844e227.png" width="500px">
-        <p>Eu sou o Marcelo!</p>
-        <p>Sou um <strong>Programador Front-End Junior</strong> tentando ingressar no mundo da tecnologia!</p>
-        <p>Em 2019, eu entrei em uma escola técnica e conheci a programação. Foi amor à primeira vista...</p> 
-        <p> Atualmente sou formado pelo curso de Desenvolvimento de Sistemas e <br>Ensino Médio integrado ao Técnico de Informática para Web.</p><br/>
-        <p><strong>💼Skills:</strong> HTML, CSS, JavaScript, BootStrap, Jquery, React.JS e Inglês Avançado</p>
-        <p><strong>📚Aprendendo:</strong> Next.JS</p>
+        <h1>Olá! Eu sou o Marcelo!</h1>
+        Seja bem-vindo(a) ao meu perfil!
+
+        Sou o Marcelo Oliveira, tenho 19 anos e sou programador full stack.
 </div>
 <br/>
 <div align="center">
