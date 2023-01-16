@@ -20,6 +20,7 @@
 </div>
 <div align="center">
         <h1>Linguagens e Ferramentas</h1>
+        https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
         <img src="https://user-images.githubusercontent.com/48383295/129463438-ab8050f3-3a97-47cb-9f8b-c791b821446f.png" width="40">
         <img src="https://user-images.githubusercontent.com/48383295/129463435-f31be9c7-d4b1-4bf9-9d92-a3e15f6c0a99.png" width="40">
         <img src="https://user-images.githubusercontent.com/48383295/129463439-cb466b04-fe98-4519-a353-0f5d38f4118f.png" width="40">
