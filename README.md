@@ -1,8 +1,8 @@
 
 <div>
         <h1>Olá! Eu sou o Marcelo!</h1>
-        Seja bem-vindo(a) ao meu perfil!
-
+        
+        <p>Seja bem-vindo(a) ao meu perfil!</p>
         <p>Sou o Marcelo Oliveira, tenho 19 anos e sou programador full stack.</p>
 </div>
 <br/>
