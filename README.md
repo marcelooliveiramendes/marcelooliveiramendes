@@ -2,7 +2,7 @@
 <div>
         <h1>Olá! Eu sou o Marcelo!</h1>
         <p>Seja bem-vindo(a) ao meu perfil!</p>
-        <p>Sou o Marcelo Oliveira, tenho 19 anos e sou programador full stack.</p>
+        <p>Sou o Marcelo Oliveira, tenho 20 anos e sou programador front-end.</p>
 </div>
 <br/>
 <div>
@@ -16,9 +16,6 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
  
 </div><br />
 <div align="center">
@@ -34,7 +31,6 @@
         <h1>GitHub Status</h1><br />
         <p>
         <img src="https://github-readme-stats.vercel.app/api?username=marcelooliveiramendes&show_icons=true&theme=tokyonight"><br /><br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooliveiramendes&layout=demo">  
         </p>
 
 </div>
